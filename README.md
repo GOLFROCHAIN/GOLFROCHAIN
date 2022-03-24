@@ -39,7 +39,3 @@
   <h3 align="center"><a href="https://twitter.com/golfrochain">GOLFRO TWITTER</a></h3>
   <h3 align="center"><a href="https://blog.naver.com/golfrochain">GOLFRO BLOG</a></h3>
   <h3 align="center"><a href="https://open.kakao.com/o/g8sIxmQd">GOLFRO KakaoTalk OpenChat</a></h3>
-
-<br>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=golfrochain&theme=dark&show_icons=true)
