@@ -24,12 +24,12 @@
 #
 <br>
 <h3 align="center"> ⚡ NEWS ⚡</h3>
+<h3 align="center"><a href="http://www.segyebiz.com/newsView/20220415513135?OutUrl=naver">골프로체인, NFT 회원권 발행…말레이시아 트로피카나 골프장과 MOU 체결</a></h3>
+<h3 align="center"><a href="http://www.it-b.co.kr/news/articleView.html?idxno=58746">골프로체인, 웹3.0 기반 DAO 도입…블록체인 거버넌스 활용</a></h3>
+<h3 align="center"><a href="https://www.coinreaders.com/28527">골프로체인, 블록체인 골프 플랫폼 ‘골패스(GOLPASS)’ 앱 6일 런칭
+</a></h3>
 <h3 align="center"><a href="http://coinreaders.com/25639/">골프로체인, 글로벌 대형 거래소 엘뱅크(LBANK) 상장</a></h3>
 <h3 align="center"><a href="http://www.discoverynews.kr/news/articleView.html?idxno=727133">골프로체인, 게이트아이오 NFT 마켓 상장</a></h3>
-<h3 align="center"><a href="https://www.itbiznews.com/news/articleView.html?idxno=60749">골프로체인, 프로골퍼 최인식 NFT...글로벌 마켓 오픈씨 런칭</a></h3>
-<h3 align="center"><a href="http://www.it-b.co.kr/news/articleView.html?idxno=56146">골프로체인(GOLF), 클레이스왑 상장…De-fi 마켓 진출</a></h3>
-<h3 align="center"><a href="http://www.nbntv.co.kr/news/articleView.html?idxno=946282">골프로체인(GOLF), 24일 글로벌 거래소 ‘비트클로버’ 상장</a></h3>
-
 <br>
 
 #
